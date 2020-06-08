@@ -1,0 +1,66 @@
+/*clearing standard formatting*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #f3f3f3;
+}
+#navegacao{
+    background: #ffff;
+    border-bottom: 1px solid #d8d8d8;
+    height:45px;
+    
+}
+
+#area{
+    width: 720px;
+    margin: 0  auto;
+    
+}
+
+#logo{
+    float: left;
+}
+
+#menu{
+float: right;
+padding: 10px;
+
+
+}
+
+/** Calsse **/
+.blogtec{
+    color: #1e90ff;
+
+}
+
+
+
+/**Formatação do Menu**/
+
+a{
+    text-decoration: none;
+    padding: 5px;
+}
+
+/*link não visitados*/
+a:link{
+    color: #1e90ff;
+
+}
+/*link visitados*/
+a:visited{
+    color: #2f4f4f;
+}
+
+/*link Hover*/
+
+a:hover{
+    color: #ffff;
+    background: #1e90ff;
+}
