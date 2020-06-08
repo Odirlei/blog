@@ -9,7 +9,7 @@ body{
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     background: #f3f3f3;
 }
-#navegacao{
+#navegation{
     background: #ffff;
     border-bottom: 1px solid #d8d8d8;
     height:45px;
@@ -33,7 +33,7 @@ padding: 10px;
 
 }
 
-/** Calsse **/
+/** Class **/
 .blogtec{
     color: #1e90ff;
 
@@ -41,19 +41,19 @@ padding: 10px;
 
 
 
-/**Formatação do Menu**/
+/**Menu Formating**/
 
 a{
     text-decoration: none;
     padding: 5px;
 }
 
-/*link não visitados*/
+/*link don't visited*/
 a:link{
     color: #1e90ff;
 
 }
-/*link visitados*/
+/*link visited*/
 a:visited{
     color: #2f4f4f;
 }
