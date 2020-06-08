@@ -62,6 +62,13 @@ padding: 10px;
 
 }
 
+.posted_by{
+    border-left: 5px solid #1e90ff;
+    padding-left:5px;
+    display:block;
+    margin-top: 10px;
+}
+
 /**Menu Formating**/
 
 a{
