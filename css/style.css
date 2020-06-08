@@ -24,6 +24,7 @@ body{
 #post{
     background: #ffff;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 #area{
@@ -71,6 +72,14 @@ h2{
     display:block;
     margin-top: 10px;
     font-style: oblique;
+}
+
+.read_more_button{
+    border: none;
+    font-size: 17px;
+    background: #ffff;
+    border-left: 1px solid #1e90ff;
+    border-right: 1px solid #1e90ff;
 }
 
 /**Menu Formating**/
