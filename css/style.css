@@ -48,6 +48,13 @@ padding: 10px;
     color: #1e90ff;
 
 }
+.date_post{
+    font-size:14px;
+    border-bottom: 1px solid #f4f4f4;
+    display:block;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
 
 
 
