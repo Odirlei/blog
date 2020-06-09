@@ -13,11 +13,14 @@ body{
     background: #ffff;
     border-bottom: 1px solid #d8d8d8;
     height:45px;
+    position: fixed;
+    width: 100%;
+    top:0;
     
 }
 #main_area{
     width: 720px;
-    margin: 10px  auto 10px auto;
+    margin: 55px  auto 10px auto;
     
 }
 
